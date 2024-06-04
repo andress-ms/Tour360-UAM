@@ -1,8 +1,8 @@
 import {Viewer} from 'mapillary-js';
 
 const container = document.createElement('div');
-container.style.width = '400px';
-container.style.height = '300px';
+container.style.width = '700px';
+container.style.height = '600px';
 document.body.appendChild(container);
 
 const viewer = new Viewer({
