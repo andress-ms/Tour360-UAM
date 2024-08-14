@@ -855,7 +855,7 @@
     cursor: pointer;
     outline: none;
     background: none;
-    -webkit-appearance: none;
+    : none;-webkit-appearance
 }
 
 .mapillary-sequence-position-container-inactive .mapillary-sequence-position {
